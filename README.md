@@ -80,7 +80,8 @@ Control all system components by sending an email with the corresponding subject
 
 ## Setup Instructions
 
-1. Connect all components based on the circuit schematic (not included).
+1. Connect all components based on the circuit schematic.
+![System Overview](arduino_image.png)
 2. Upload the Arduino code to the microcontroller.
 3. Configure:
    - Email account (SMTP server, credentials)
