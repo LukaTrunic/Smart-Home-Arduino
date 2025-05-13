@@ -97,8 +97,6 @@ Control all system components by sending an email with the corresponding subject
 ## Author
 
 **Luka Trunić**  
-Student ID: 2021/230020  
-Faculty of Technical Sciences, Novi Sad
 
 ---
 
